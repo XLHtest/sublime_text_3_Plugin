@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"BracketHighlighter"
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Anaconda",
+		"AutoFileName",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"Django",
+		"DocBlockr",
+		"Emmet",
+		"Express Completion",
+		"ExpressComplete",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"MarkdownEditing",
+		"Node Completions",
+		"Nodejs",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"phpfmt",
+		"Python 3",
+		"rem-unit",
+		"Request",
+		"Requester",
+		"TrailingSpaces",
+		"TypeScript"
+	]
+}
